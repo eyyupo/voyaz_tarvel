@@ -389,7 +389,13 @@ footer{
       
     .slider {
         width:300px;
-        height: 100px;
+        height: 200px;
+    }
+    
+    .slider .buttons button {
+        width: 5px;
+        height: 5px;
+        
     }
 
 }
