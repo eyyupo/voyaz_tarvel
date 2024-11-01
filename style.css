@@ -384,3 +384,13 @@ footer{
     height: 30%;
 }
 
+@media only screen and (max-width:320px)
+{  
+      
+    .slider {
+        width:300px;
+        height: 100px;
+    }
+
+}
+
