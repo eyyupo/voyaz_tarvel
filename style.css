@@ -392,11 +392,24 @@ footer{
         height: 200px;
     }
     
-    .slider .buttons button {
-        width: 5px;
-        height: 5px;
+    .slider .dots{
         
+        display: none;
     }
+    .slider .dots li{
+        
+        display: none;
+    }
+    .slider .dots li.active{
+        
+        display: none;
+    }
+
+    .slider .buttons {
+      
+        display: none;
+    }
+
 
 }
 
